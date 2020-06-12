@@ -1,0 +1,494 @@
+[
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_pump_top.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/pump_top.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_download_play_xml.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/download_play_xml.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_playlist_activity.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/playlist_activity.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_spinner_row.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/spinner_row.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_folder.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/folder.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_download_play_activity.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/download_play_activity.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ver_option.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/ver_option.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_expandable_list_view_artist.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/expandable_list_view_artist.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_local_song_main_activity.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/local_song_main_activity.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_animation.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/animation.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_musiccircle_default_art.jpg.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_musiccircle_default_art.jpg"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_top_album.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/top_album.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_online_discovery.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_online_discovery.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_down_out.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/down_out.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_untitled_one.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/untitled_one.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_sound.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/sound.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_slide_out_up.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/slide_out_up.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_rail.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/rail.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_footerview_listview.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/footerview_listview.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_drop_up_icon.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/drop_up_icon.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_play_next.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_play_next.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_feedback.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/feedback.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi_crtusr.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-xhdpi/crtusr.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_my_fragment.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/my_fragment.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_recent_played.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/recent_played.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_top_album_listview_row.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/top_album_listview_row.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_out_left.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/out_left.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_animation2.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/animation2.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_dislike.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/dislike.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_download_adapter_row.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/download_adapter_row.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_list_group.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/list_group.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_right_in.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/right_in.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_slide_in_up.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi_joinusr.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-xhdpi/joinusr.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/menu_main_activity_action.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/menu/main_activity_action.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_grow_from_top.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/grow_from_top.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi_image1.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-xhdpi/image1.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_recent_add.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/recent_add.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_playlist.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/playlist.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_playmode_repeat.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_playmode_repeat.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_feature_fragment.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/feature_fragment.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_actionitem_back_white.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_actionitem_back_white.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_page_indicator.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_page_indicator.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_album.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/album.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_home.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/home.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_local_song_row.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/local_song_row.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_left_out.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/left_out.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_shrink_from_bottomleft_to_topright.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_play_prev.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_play_prev.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_imageview_soundsearch_result_default_cover.jpg.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_imageview_soundsearch_result_default_cover.jpg"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_exit.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/exit.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_play.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/play.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_shrink_from_topright_to_bottomleft.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/shrink_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable_custom_pb.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable/custom_pb.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_out_right.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/out_right.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_download_fragment.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/download_fragment.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_button_playcontrolbar_transparent_menu_normal.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_button_playcontrolbar_transparent_menu_normal.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_about.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/about.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_right_out.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/right_out.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_shrink_from_bottomright_to_topleft.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/shrink_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_playlist_activity_row.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/playlist_activity_row.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_revs.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/revs.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_up_out.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/up_out.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_flash.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/flash.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_search.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_drop_dwon.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/drop_dwon.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_like.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/like.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_fwd.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/fwd.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_my_luck.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_my_luck.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_up_in.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/up_in.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_songs_list_layout_dialog.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/songs_list_layout_dialog.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_pump_bottom.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/pump_bottom.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_grow_from_topright_to_bottomleft.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_play_bar_play.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/play_bar_play.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_fade.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/fade.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_app_icon.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_my_music.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_my_music.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_local_song_listview_fragment.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/local_song_listview_fragment.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_shrink_from_topleft_to_bottomright.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/shrink_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_close.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/close.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_grow_from_bottomleft_to_topright.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/grow_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_about_us_activity.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/about_us_activity.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_notification_custom_view.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/notification_custom_view.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_shuffle.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/shuffle.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_top_bar_search_h.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/top_bar_search_h.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_grow_from_topleft_to_bottomright.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/grow_from_topleft_to_bottomright.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_move.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/move.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_play_bar_play_next.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/play_bar_play_next.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_playmode_repeatone.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_playmode_repeatone.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_categoty_row.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/categoty_row.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_spinner_item.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_grow_from_bottomright_to_topleft.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/grow_from_bottomright_to_topleft.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_artist_listview_row.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/artist_listview_row.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_disappear.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/disappear.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_play_bar_pause.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/play_bar_pause.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_action_bar.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/action_bar.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_playmode_sequence.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_playmode_sequence.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_in_left.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/in_left.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_download.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/download.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_media_player_activity.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/media_player_activity.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_artist.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/artist.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_left_in.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/left_in.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-xhdpi_image2.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-xhdpi/image2.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_playmode_shuffle.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_playmode_shuffle.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_search.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_search.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_down_in.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/down_in.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_play.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_play.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_option.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/option.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_grow_from_bottom.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/grow_from_bottom.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_pause.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/pause.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_in_right.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/in_right.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_img_appwidget_pause.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/img_appwidget_pause.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_search.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/search.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_shrink_from_top.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/shrink_from_top.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/layout_local_song_list_dialog.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/layout/local_song_list_dialog.xml"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_repeat.png.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/drawable-hdpi/repeat.png"
+    },
+    {
+        "merged": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/build/intermediates/res/merged/debug/anim_shrink_from_bottom.xml.flat",
+        "source": "/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/res/anim/shrink_from_bottom.xml"
+    }
+]

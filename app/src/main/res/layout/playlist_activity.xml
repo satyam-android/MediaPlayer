@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/img_musiccircle_default_art">
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:orientation="vertical"
+        
+        >
+        
+        <TextView
+            android:id="@+id/plalist_add"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="20dp"
+            android:text="Add Playlist"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:background="#ffffff"
+             />
+        
+    </LinearLayout>
+    <ListView 
+        android:id="@+id/playlist_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="85"
+        android:background="#60000000"
+        android:dividerHeight="0dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        
+        ></ListView>
+    
+
+</LinearLayout>

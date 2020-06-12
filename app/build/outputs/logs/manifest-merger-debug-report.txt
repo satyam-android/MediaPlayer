@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:1-128:12
+MERGED from [com.google.android.material:material:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bcaf2f38bd0e6ffe04a17e5f685cbed4/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/8493bed2e63cf9e02dc8d3487927010c/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/51c4c178afaeff173cfa265953a5c82e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/0173e97803654dcbfad44abe4036c6e5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/fe1f2403fb0b1030c0f13fe1c33f65ab/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ab482c9af1b0695a8fb7a5348063e87e/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/86564163a688b7c5915aebbf0594d3b9/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/39b4f59a835527a351392d1b387458e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/d11ce741c2c27f6eeb8e3514151430d9/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/275bb0cd718ded38eec8234e7513c16c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/fc12b1d7b1a887a81ff1f750b0b473c7/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/6a5aacb22b562922820652a32ac05ba6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/df4d09f70e3f533a2fede8f96085147c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c16c855844b564ee7204d4d6005470fb/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:1-128:12
+	package
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:9:2-71
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:9:19-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:10:2-63
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:10:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:11:2-76
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:11:19-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:12:2-68
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:12:19-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:13:2-73
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:13:19-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:14:2-78
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:14:19-75
+application
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:17:5-126:19
+MERGED from [com.google.android.material:material:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bcaf2f38bd0e6ffe04a17e5f685cbed4/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bcaf2f38bd0e6ffe04a17e5f685cbed4/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:20:9-41
+	android:largeHeap
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:22:9-33
+	android:icon
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:19:9-42
+	android:allowBackup
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:21:9-56
+uses-library#org.apache.http.legacy
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:24:9-89
+	android:required
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:24:62-87
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:24:23-61
+activity#com.player.mediaplayer.splash
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:25:9-35:20
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:29:13-52
+	android:label
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:28:13-45
+	android:noHistory
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:26:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:33:27-74
+activity#com.player.mediaplayer.homeActivity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:36:9-42:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:38:13-52
+	android:launchMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:39:13-44
+	android:alwaysRetainTaskState
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:41:13-49
+	android:theme
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:40:13-54
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:37:13-65
+activity#com.player.mediaplayer.about_us_activity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:44:9-49:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:46:13-52
+	android:launchMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:45:13-70
+activity#com.player.mediaplayer.MediaPlayerActivity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:51:9-56:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:53:13-52
+	android:launchMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:54:13-44
+	android:theme
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:52:13-72
+activity#com.player.mediaplayer.albumActivity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:59:10-64:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:61:13-52
+	android:noHistory
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:60:13-66
+activity#com.player.mediaplayer.artistActivity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:65:9-70:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:67:13-52
+	android:noHistory
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:66:13-67
+activity#com.player.mediaplayer.MyDialogFragment
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:72:9-78:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:74:13-52
+	android:launchMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:75:13-44
+	android:windowSoftInputMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:76:13-52
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:73:13-69
+activity#com.player.mediaplayer.folderActivity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:80:9-85:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:82:13-52
+	android:noHistory
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:81:13-67
+activity#com.player.mediaplayer.PlalistActivity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:86:9-93:15
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:88:13-52
+	android:windowSoftInputMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:90:13-52
+	android:noHistory
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:89:13-37
+	android:theme
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:87:13-68
+activity#com.player.mediaplayer.topAlbum
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:94:9-98:25
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:96:13-52
+	android:noHistory
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:97:13-37
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:95:13-61
+activity#com.player.mediaplayer.searchActivity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:99:9-105:25
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:101:13-52
+	android:launchMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:102:13-44
+	android:windowSoftInputMode
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:104:14-53
+	android:theme
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:103:14-55
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:100:13-67
+activity#com.player.mediaplayer.category_albumList_activity
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:106:9-110:25
+	android:screenOrientation
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:108:13-52
+	android:theme
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:109:13-54
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:107:13-78
+receiver#com.player.mediaplayer.reciever.notification_broadcast
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:113:9-122:20
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:113:19-88
+intent-filter#action:name:com.player.MediaPlayer.cross+action:name:com.player.MediaPlayer.next+action:name:com.player.MediaPlayer.play+action:name:com.player.MediaPlayer.prev
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:114:13-121:29
+action#com.player.MediaPlayer.next
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:115:17-78
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:115:25-67
+action#com.player.MediaPlayer.cross
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:116:21-83
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:116:29-72
+action#com.player.MediaPlayer.play
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:117:21-82
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:117:29-71
+action#com.player.MediaPlayer.prev
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:118:21-83
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:118:29-71
+service#com.player.mediaplayer.service.notificationService
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:124:9-87
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:124:18-83
+service#com.player.mediaplayer.service.BackService
+ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:125:9-79
+	android:name
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:125:18-75
+uses-sdk
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bcaf2f38bd0e6ffe04a17e5f685cbed4/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bcaf2f38bd0e6ffe04a17e5f685cbed4/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ce61250d0f7070aaab97d5c03ab2ab2e/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/8493bed2e63cf9e02dc8d3487927010c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/8493bed2e63cf9e02dc8d3487927010c/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/51c4c178afaeff173cfa265953a5c82e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/51c4c178afaeff173cfa265953a5c82e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/0173e97803654dcbfad44abe4036c6e5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/0173e97803654dcbfad44abe4036c6e5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/fe1f2403fb0b1030c0f13fe1c33f65ab/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/fe1f2403fb0b1030c0f13fe1c33f65ab/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/4d3e32c2f901863288c7ff80fcf0967a/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ab482c9af1b0695a8fb7a5348063e87e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ab482c9af1b0695a8fb7a5348063e87e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/86564163a688b7c5915aebbf0594d3b9/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/86564163a688b7c5915aebbf0594d3b9/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/39b4f59a835527a351392d1b387458e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/39b4f59a835527a351392d1b387458e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/d11ce741c2c27f6eeb8e3514151430d9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/d11ce741c2c27f6eeb8e3514151430d9/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/275bb0cd718ded38eec8234e7513c16c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/275bb0cd718ded38eec8234e7513c16c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/fc12b1d7b1a887a81ff1f750b0b473c7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/fc12b1d7b1a887a81ff1f750b0b473c7/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/6a5aacb22b562922820652a32ac05ba6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/6a5aacb22b562922820652a32ac05ba6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/3f5e37635a712470204c0315e55f1003/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/552d05fff7df0b1caee9db39c74659fe/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/df4d09f70e3f533a2fede8f96085147c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/df4d09f70e3f533a2fede8f96085147c/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c16c855844b564ee7204d4d6005470fb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/c16c855844b564ee7204d4d6005470fb/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+		ADDED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml

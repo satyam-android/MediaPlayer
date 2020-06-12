@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="4dp"
+   	android:background="#40000000">
+ 
+    <ImageView 
+        android:id="@+id/dropimg"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        
+        android:src="@drawable/drop_dwon"
+        android:visibility="visible"
+        />
+ 
+    <TextView
+        android:id="@+id/lblListHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:textSize="15dp"
+        android:layout_gravity="center_vertical"
+        android:singleLine="true"
+        android:textColor="#ffffff" />
+ 
+</LinearLayout>

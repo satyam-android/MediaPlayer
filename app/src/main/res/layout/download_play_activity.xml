@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/img_musiccircle_default_art"
+    android:gravity="center">
+    <LinearLayout
+        android:id="@+id/player_title"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="#98000000"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/download_play_back"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="15"
+            
+            android:src="@drawable/img_actionitem_back_white" />
+
+        <TextView
+            android:id="@+id/download_play_title"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="70"
+            android:gravity="center"
+            android:text="Downloads"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <ImageView
+            android:id="@+id/download_play_option"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="15"
+            android:visibility="invisible"
+            android:src="@drawable/img_button_playcontrolbar_transparent_menu_normal" />
+    </LinearLayout>
+    <ListView 
+        android:id="@+id/download_paly_listview"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="90"
+        
+        
+        />
+    
+
+</LinearLayout>
