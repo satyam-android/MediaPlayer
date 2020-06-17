@@ -15,6 +15,7 @@ import com.player.mediaplayer.database.SongsTable;
 import com.player.mediaplayer.network.downloadApk;
 import com.player.mediaplayer.reciever.ListenToPhoneState;
 
+import com.player.mediaplayer.reciever.notification_broadcast;
 import com.player.mediaplayer.service.BackService;
 import com.player.mediaplayer.service.notificationService;
 import com.player.mediplayer.beans.SongInfo;
@@ -31,6 +32,7 @@ import android.app.FragmentTransaction;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.IntentFilter;
 import android.content.SharedPreferences;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -72,6 +74,7 @@ import android.widget.Toast;
 import android.widget.AdapterView.OnItemClickListener;
 
 import androidx.fragment.app.FragmentActivity;
+import androidx.localbroadcastmanager.content.LocalBroadcastManager;
 import androidx.viewpager.widget.ViewPager;
 
 public class homeActivity extends FragmentActivity implements OnClickListener,
@@ -103,11 +106,12 @@ public class homeActivity extends FragmentActivity implements OnClickListener,
 	private List<SongInfo> songlist = null;
 	private SharedPreferences pref = null;
 	private boolean showDownloadDialog = true;
+	private LocalBroadcastManager localBroadcastManager;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		
 		if (Build.VERSION.SDK_INT>=Build.VERSION_CODES.GINGERBREAD) {
-				enableStrictMode(this);
+			//	enableStrictMode(this);
 				}
 				else{
 				//If the android version is less than 2.3 log a message to LogCat
@@ -191,9 +195,9 @@ public class homeActivity extends FragmentActivity implements OnClickListener,
 			public void onPageScrollStateChanged(int arg0) {
 			}
 		});
-		
-		
-		
+//this.registerReceiver(new notification_broadcast(),new IntentFilter("com.player.mediaplayer.reciever.notification_broadcast"));
+//		localBroadcastManager = LocalBroadcastManager.getInstance(this);
+//		localBroadcastManager.registerReceiver(new notification_broadcast(),new IntentFilter("com.player.mediaplayer.reciever.notification_broadcast"));
 	}
 
 	@Override
@@ -304,6 +308,10 @@ public class homeActivity extends FragmentActivity implements OnClickListener,
 	protected void onDestroy() {
 		// TODO Auto-generated method stub
 		Log.i("homeactivity", "inside ondestroy");
+		if(localBroadcastManager!=null){
+//			this.unregisterReceiver(new notification_broadcast());
+//			localBroadcastManager.unregisterReceiver(new notification_broadcast());
+		}
 		startService(new Intent(homeActivity.this, BackService.class));
 		super.onDestroy();
 		// stopService(new Intent(this, notificationService.class));

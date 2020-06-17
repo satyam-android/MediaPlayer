@@ -31,182 +31,189 @@
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 17-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:14:2-78
 17-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:14:19-75
-18
-19    <application
-19-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:17:5-126:19
-20        android:allowBackup="true"
-20-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:18:9-35
-21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
-22        android:debuggable="true"
-23        android:icon="@drawable/app_icon"
-23-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:19:9-42
-24        android:label="@string/app_name"
-24-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:20:9-41
-25        android:largeHeap="true"
-25-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:22:9-33
-26        android:theme="@android:style/Theme.NoTitleBar" >
-26-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:21:9-56
-27        <uses-library
-27-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:24:9-89
-28            android:name="org.apache.http.legacy"
-28-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:24:23-61
-29            android:required="false" />
-29-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:24:62-87
-30
-31        <activity
-31-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:25:9-35:20
-32            android:name="com.player.mediaplayer.splash"
-32-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:26:13-57
-33            android:label="@string/app_name"
-33-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:28:13-45
-34            android:noHistory="true"
-34-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:27:13-37
-35            android:screenOrientation="unspecified" >
-35-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:29:13-52
-36            <intent-filter>
-36-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:30:13-34:29
-37                <action android:name="android.intent.action.MAIN" />
-37-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:31:17-69
-37-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:31:25-66
-38
-39                <category android:name="android.intent.category.LAUNCHER" />
-39-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:33:17-77
-39-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:33:27-74
-40            </intent-filter>
-41        </activity>
-42        <activity
-42-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:36:9-42:15
-43            android:name="com.player.mediaplayer.homeActivity"
-43-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:37:13-65
-44            android:alwaysRetainTaskState="true"
-44-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:41:13-49
-45            android:launchMode="singleTask"
-45-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:39:13-44
-46            android:screenOrientation="unspecified"
-46-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:38:13-52
-47            android:theme="@android:style/Theme.Holo" />
-47-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:40:13-54
-48        <activity
-48-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:44:9-49:15
-49            android:name="com.player.mediaplayer.about_us_activity"
-49-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:45:13-70
-50            android:launchMode="singleTask"
-50-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:47:13-44
-51            android:screenOrientation="unspecified" />
-51-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:46:13-52
-52        <activity
-52-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:51:9-56:15
-53            android:name="com.player.mediaplayer.MediaPlayerActivity"
-53-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:52:13-72
-54            android:launchMode="singleTask"
-54-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:54:13-44
-55            android:screenOrientation="unspecified"
-55-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:53:13-52
-56            android:theme="@style/AppTheme" />
-56-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:55:13-44
-57        <activity
-57-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:59:10-64:15
-58            android:name="com.player.mediaplayer.albumActivity"
-58-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:60:13-66
-59            android:noHistory="true"
-59-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:62:13-37
-60            android:screenOrientation="unspecified" />
-60-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:61:13-52
-61        <activity
-61-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:65:9-70:15
-62            android:name="com.player.mediaplayer.artistActivity"
-62-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:66:13-67
-63            android:noHistory="true"
-63-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:68:13-37
-64            android:screenOrientation="unspecified" />
-64-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:67:13-52
-65        <activity
-65-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:72:9-78:15
-66            android:name="com.player.mediaplayer.MyDialogFragment"
-66-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:73:13-69
-67            android:launchMode="singleTask"
-67-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:75:13-44
-68            android:screenOrientation="unspecified"
-68-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:74:13-52
-69            android:windowSoftInputMode="adjustPan" />
-69-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:76:13-52
-70        <activity
-70-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:80:9-85:15
-71            android:name="com.player.mediaplayer.folderActivity"
-71-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:81:13-67
-72            android:noHistory="true"
-72-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:83:13-37
-73            android:screenOrientation="unspecified" />
-73-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:82:13-52
-74        <activity
-74-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:86:9-93:15
-75            android:name="com.player.mediaplayer.PlalistActivity"
-75-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:87:13-68
-76            android:noHistory="true"
-76-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:89:13-37
-77            android:screenOrientation="unspecified"
-77-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:88:13-52
-78            android:theme="@style/AppTheme"
-78-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:91:13-44
-79            android:windowSoftInputMode="adjustPan" />
+18    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+18-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:15:5-76
+18-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:15:22-74
+19
+20    <application
+20-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:18:5-130:19
+21        android:allowBackup="true"
+21-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:19:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.1.0] /home/satyam/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@drawable/app_icon"
+24-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:20:9-42
+25        android:label="@string/app_name"
+25-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:21:9-41
+26        android:largeHeap="true"
+26-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:24:9-33
+27        android:requestLegacyExternalStorage="true"
+27-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:22:9-52
+28        android:theme="@android:style/Theme.NoTitleBar" >
+28-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:23:9-56
+29        <uses-library
+29-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:26:9-89
+30            android:name="org.apache.http.legacy"
+30-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:26:23-61
+31            android:required="false" />
+31-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:26:62-87
+32
+33        <activity
+33-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:27:9-37:20
+34            android:name="com.player.mediaplayer.splash"
+34-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:28:13-57
+35            android:label="@string/app_name"
+35-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:30:13-45
+36            android:noHistory="true"
+36-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:29:13-37
+37            android:screenOrientation="unspecified" >
+37-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:31:13-52
+38            <intent-filter>
+38-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:32:13-36:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:33:17-69
+39-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:33:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:35:17-77
+41-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:35:27-74
+42            </intent-filter>
+43        </activity>
+44        <activity
+44-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:38:9-44:15
+45            android:name="com.player.mediaplayer.homeActivity"
+45-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:39:13-65
+46            android:alwaysRetainTaskState="true"
+46-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:43:13-49
+47            android:launchMode="singleTask"
+47-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:41:13-44
+48            android:screenOrientation="unspecified"
+48-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:40:13-52
+49            android:theme="@android:style/Theme.Holo" />
+49-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:42:13-54
+50        <activity
+50-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:46:9-51:15
+51            android:name="com.player.mediaplayer.about_us_activity"
+51-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:47:13-70
+52            android:launchMode="singleTask"
+52-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:49:13-44
+53            android:screenOrientation="unspecified" />
+53-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:48:13-52
+54        <activity
+54-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:53:9-58:15
+55            android:name="com.player.mediaplayer.MediaPlayerActivity"
+55-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:54:13-72
+56            android:launchMode="singleTask"
+56-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:56:13-44
+57            android:screenOrientation="unspecified"
+57-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:55:13-52
+58            android:theme="@style/AppTheme" />
+58-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:57:13-44
+59        <activity
+59-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:61:10-66:15
+60            android:name="com.player.mediaplayer.albumActivity"
+60-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:62:13-66
+61            android:noHistory="true"
+61-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:64:13-37
+62            android:screenOrientation="unspecified" />
+62-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:63:13-52
+63        <activity
+63-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:67:9-72:15
+64            android:name="com.player.mediaplayer.artistActivity"
+64-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:68:13-67
+65            android:noHistory="true"
+65-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:70:13-37
+66            android:screenOrientation="unspecified" />
+66-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:69:13-52
+67        <activity
+67-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:74:9-80:15
+68            android:name="com.player.mediaplayer.MyDialogFragment"
+68-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:75:13-69
+69            android:launchMode="singleTask"
+69-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:77:13-44
+70            android:screenOrientation="unspecified"
+70-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:76:13-52
+71            android:windowSoftInputMode="adjustPan" />
+71-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:78:13-52
+72        <activity
+72-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:82:9-87:15
+73            android:name="com.player.mediaplayer.folderActivity"
+73-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:83:13-67
+74            android:noHistory="true"
+74-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:85:13-37
+75            android:screenOrientation="unspecified" />
+75-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:84:13-52
+76        <activity
+76-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:88:9-95:15
+77            android:name="com.player.mediaplayer.PlalistActivity"
+77-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:89:13-68
+78            android:noHistory="true"
+78-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:91:13-37
+79            android:screenOrientation="unspecified"
 79-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:90:13-52
-80        <activity
-80-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:94:9-98:25
-81            android:name="com.player.mediaplayer.topAlbum"
-81-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:95:13-61
-82            android:noHistory="true"
-82-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:97:13-37
-83            android:screenOrientation="unspecified" />
-83-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:96:13-52
-84        <activity
-84-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:99:9-105:25
-85            android:name="com.player.mediaplayer.searchActivity"
-85-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:100:13-67
-86            android:launchMode="singleTask"
-86-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:102:13-44
-87            android:screenOrientation="unspecified"
-87-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:101:13-52
-88            android:theme="@android:style/Theme.Holo"
-88-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:103:14-55
-89            android:windowSoftInputMode="adjustPan" />
-89-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:104:14-53
-90        <activity
-90-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:106:9-110:25
-91            android:name="com.player.mediaplayer.category_albumList_activity"
-91-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:107:13-78
-92            android:screenOrientation="unspecified"
-92-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:108:13-52
-93            android:theme="@android:style/Theme.Holo" />
-93-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:109:13-54
-94
-95        <receiver android:name="com.player.mediaplayer.reciever.notification_broadcast" >
-95-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:113:9-122:20
-95-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:113:19-88
-96            <intent-filter>
-96-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:114:13-121:29
-97                <action android:name="com.player.MediaPlayer.next" />
-97-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:115:17-78
-97-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:115:25-67
-98                <action android:name="com.player.MediaPlayer.cross" />
-98-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:116:21-83
-98-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:116:29-72
-99                <action android:name="com.player.MediaPlayer.play" />
-99-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:117:21-82
-99-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:117:29-71
-100                <action android:name="com.player.MediaPlayer.prev" >
-100-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:118:21-83
-100-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:118:29-71
-101                </action>
-102            </intent-filter>
-103        </receiver>
-104
-105        <service android:name="com.player.mediaplayer.service.notificationService" />
-105-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:124:9-87
-105-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:124:18-83
-106        <service android:name="com.player.mediaplayer.service.BackService" />
-106-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:125:9-79
-106-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:125:18-75
-107    </application>
-108
-109</manifest> <!-- <action android:name="android.intent.action.PHONE_STATE" /> -->
+80            android:theme="@style/AppTheme"
+80-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:93:13-44
+81            android:windowSoftInputMode="adjustPan" />
+81-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:92:13-52
+82        <activity
+82-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:96:9-100:25
+83            android:name="com.player.mediaplayer.topAlbum"
+83-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:97:13-61
+84            android:noHistory="true"
+84-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:99:13-37
+85            android:screenOrientation="unspecified" />
+85-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:98:13-52
+86        <activity
+86-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:101:9-107:25
+87            android:name="com.player.mediaplayer.searchActivity"
+87-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:102:13-67
+88            android:launchMode="singleTask"
+88-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:104:13-44
+89            android:screenOrientation="unspecified"
+89-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:103:13-52
+90            android:theme="@android:style/Theme.Holo"
+90-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:105:14-55
+91            android:windowSoftInputMode="adjustPan" />
+91-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:106:14-53
+92        <activity
+92-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:108:9-112:25
+93            android:name="com.player.mediaplayer.category_albumList_activity"
+93-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:109:13-78
+94            android:screenOrientation="unspecified"
+94-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:110:13-52
+95            android:theme="@android:style/Theme.Holo" />
+95-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:111:13-54
+96
+97        <receiver
+97-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:115:9-126:20
+98            android:name="com.player.mediaplayer.reciever.notification_broadcast"
+98-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:115:19-88
+99            android:enabled="true" >
+99-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:116:13-35
+100            <intent-filter>
+100-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:118:13-125:29
+101                <action android:name="com.player.MediaPlayer.next" />
+101-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:119:17-70
+101-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:119:25-67
+102                <action android:name="com.player.MediaPlayer.cross" />
+102-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:120:17-71
+102-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:120:25-68
+103                <action android:name="com.player.MediaPlayer.play" />
+103-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:121:17-70
+103-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:121:25-67
+104                <action android:name="com.player.MediaPlayer.prev" />
+104-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:122:17-69
+104-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:122:25-67
+105            </intent-filter>
+106        </receiver>
+107
+108        <service android:name="com.player.mediaplayer.service.notificationService" />
+108-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:128:9-87
+108-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:128:18-83
+109        <service android:name="com.player.mediaplayer.service.BackService" />
+109-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:129:9-79
+109-->/home/satyam/AndroidStudioProjects/MediaPlayer/app/src/main/AndroidManifest.xml:129:18-75
+110    </application>
+111
+112</manifest> <!-- <action android:name="android.intent.action.PHONE_STATE" /> -->

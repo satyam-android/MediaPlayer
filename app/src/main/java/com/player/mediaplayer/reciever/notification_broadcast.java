@@ -30,7 +30,7 @@ public class notification_broadcast extends BroadcastReceiver {
 	private List<String> list;
 	private Context context = null;
 	//private int i ;
-	
+
 	@Override
 	public void onReceive(Context context, Intent intent) {
 		if(intent == null)
@@ -40,7 +40,7 @@ public class notification_broadcast extends BroadcastReceiver {
 		
 		
 		this.context  =context;
-		Log.i("##@@ inside broadcast", intent.getAction());
+//		Log.i("##@@ inside broadcast", intent.getAction());
 		//Toast.makeText(context.getApplicationContext(), "faf", 1000).show();
 		//list = Utils.list;
 		String ns = Context.NOTIFICATION_SERVICE;
@@ -63,7 +63,7 @@ public class notification_broadcast extends BroadcastReceiver {
 		
 		
 		int i = Integer.parseInt(intent.getStringExtra("work"));
-		String action  = intent.getAction();
+/*		String action  = intent.getAction();
 		if(action.equalsIgnoreCase("com.player.MediaPlayer.play"))
 			i=3;
 		else if(action.equalsIgnoreCase("com.player.MediaPlayer.next")) {
@@ -75,7 +75,8 @@ public class notification_broadcast extends BroadcastReceiver {
 		}
 		else if (action.equalsIgnoreCase("com.player.MediaPlayer.cross")) {
 			i=7;
-		}
+		}*/
+//		i=AppConstant.CROSS;
 		/*else if (intent.getStringExtra(TelephonyManager.EXTRA_STATE).equals(
 	                TelephonyManager.EXTRA_STATE_RINGING)) {
 			i=3;
