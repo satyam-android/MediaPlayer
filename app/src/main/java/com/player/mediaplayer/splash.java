@@ -59,6 +59,7 @@ import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
+import static android.Manifest.permission.FOREGROUND_SERVICE;
 import static android.Manifest.permission.GET_ACCOUNTS;
 import static android.Manifest.permission.READ_EXTERNAL_STORAGE;
 import static android.Manifest.permission.READ_PHONE_STATE;
@@ -104,8 +105,9 @@ public class splash extends Activity {
         int result = ContextCompat.checkSelfPermission(getApplicationContext(), READ_EXTERNAL_STORAGE);
         int result1= ContextCompat.checkSelfPermission(getApplicationContext(), READ_PHONE_STATE);
         int result2= ContextCompat.checkSelfPermission(getApplicationContext(), GET_ACCOUNTS);
+//        int result3= ContextCompat.checkSelfPermission(getApplicationContext(), FOREGROUND_SERVICE);
 
-        return result == PackageManager.PERMISSION_GRANTED && result1 == PackageManager.PERMISSION_GRANTED && result2 == PackageManager.PERMISSION_GRANTED;
+        return result == PackageManager.PERMISSION_GRANTED && result1 == PackageManager.PERMISSION_GRANTED && result2 == PackageManager.PERMISSION_GRANTED ;
     }
 
     private void requestPermission() {
@@ -121,7 +123,8 @@ public class splash extends Activity {
                 if (grantResults.length > 0) {
                     boolean storageAccepted = grantResults[0] == PackageManager.PERMISSION_GRANTED;
                     boolean phoneStateAccepted = grantResults[1] == PackageManager.PERMISSION_GRANTED;
-                    boolean accountAccepted = grantResults[1] == PackageManager.PERMISSION_GRANTED;
+                    boolean accountAccepted = grantResults[2] == PackageManager.PERMISSION_GRANTED;
+//                    boolean notificationAccepted = grantResults[3] == PackageManager.PERMISSION_GRANTED;
 
                     if (storageAccepted && phoneStateAccepted && accountAccepted)
                         startScan();
@@ -221,16 +224,16 @@ public class splash extends Activity {
 
             li = new ArrayList<>();
             // gettingSongUsingContentProvider();
-            li.add(getFilesDir().getAbsolutePath());
+//            li.add(getFilesDir().getAbsolutePath());
 			li.add(Environment.getExternalStorageDirectory().toString());
 
-			/*for (int i = 0; i < s.length; i++) {
+			for (int i = 0; i < s.length; i++) {
 				if (s[i].getAbsolutePath().contains("MediaPlayer")
 						|| s[i].getAbsolutePath().contains("Card")
 						|| s[i].getAbsolutePath().contains("card")) {
 					li.add(s[i].getAbsolutePath());
 				}
-			}*/
+			}
 
             new Handler().postDelayed(new Runnable() {
 

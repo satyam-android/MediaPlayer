@@ -78,7 +78,7 @@ public class AudioPlayer {
 			player.setDataSource(Utils.list.get(songIndex).getPath());// Write
 				song = Utils.list.get(songIndex).getPath();														// your
 																		// location
-			Log.i("inside playListIndex audio player	", songIndex + ""); // here
+			Log.i("inside playListIndex au", songIndex + ""); // here
 			player.prepare();
 			player.start();
 			db.updateRecentPlayed(Utils.list.get(songIndex).getPath(),
@@ -242,7 +242,7 @@ public class AudioPlayer {
 	}
 
 	public void next(notificationService ser) {
-		Log.i("inside next audio player	", songIndex + "");
+		Log.i("inside next audio playe", songIndex + "");
 		songIndex++;
 		// if (player.isPlaying()) {
 		player.stop();
